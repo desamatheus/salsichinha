@@ -1,0 +1,54 @@
+header {
+    background-color:#E8DAB2;
+    text-align: left;
+    
+}
+body {
+    background-color:#E8DAB2;
+    
+}
+body div {
+    background-color: white;
+    margin: 110px;
+    padding: auto;
+    border: 30px;
+    border-radius: 10px;
+    border:chartreuse;
+
+}
+.relative {
+    background-color: white;
+    height: 50%;
+    width:  50%;
+    position: relative;
+    top: 20px;
+    left: 45px;
+    margin-bottom: 13%;
+ }
+.lugar { 
+    margin: 2%;
+ }
+
+footer
+{
+    background-color: black;
+    color: aliceblue;
+    text-align: right;
+
+}
+
+.absolute {
+    height: 000px;
+    width: 00px;
+    position: absolute;
+    top: -110px;
+    right: 620px;
+}
+.fixed {
+    background: black;
+    height: 5%;
+    width: 100%;
+    position: fixed;
+    bottom:  1%;
+    right: -110px;
+   }
